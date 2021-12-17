@@ -4,7 +4,9 @@ imoprt react from 'react';
 
 const function App(){
    return(
-       <div></div>
+       <div>
+             <h1>salam alikoum</h1>
+       </div>
    )
 
 
